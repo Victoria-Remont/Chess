@@ -236,6 +236,7 @@ int roi( int x, int y, int *deplacement)
 		}
 		
 	}
+}
 
 	
 int main (void)
